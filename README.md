@@ -35,4 +35,4 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://gajendra-ingle.netlify.app/)**
+To view a live example, **[click here](https://gajendraingle.netlify.app/)**
