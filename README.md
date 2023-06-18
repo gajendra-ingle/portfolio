@@ -3,7 +3,7 @@
 <h1>Personal Portfolio Website - v0.1</h1>
 
 <h2>
-  <a href="">Gajendra Ingle</a>
+  <a href="https://gajendraingle.netlify.app/">Gajendra Ingle</a>
 </h2>
 
 <div align="center">
