@@ -7,7 +7,7 @@
 </h2>
 
 <div align="center">
-  <a href="">
+  <a href="https://gajendraingle.netlify.app/">
     <img alt="Mockup" src="Mockup.png" />
   </a>
 </div>
